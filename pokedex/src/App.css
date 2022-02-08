@@ -1,0 +1,11 @@
+:root{
+  --lightRed: FF0000;
+  --red: CC0000;
+  --blue: 3B4CCA;
+  --yellow: FFDE00;
+  --gold: B3A125;
+}
+
+h1{
+  color: var(--gold);
+}
